@@ -1,1 +1,1 @@
-web: newrelic-admin run-program bin/hubot --adapter hipchat
+web: bin/hubot --adapter hipchat
